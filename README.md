@@ -105,7 +105,7 @@ The processed analysis tables used here originate from Arctic satellite altimetr
 
 ## Methodology
 
-The analysis notebook (`notebooks/final_project.ipynb`) follows a five-stage pipeline:
+The analysis workflow (captured in `notebooks/final_project.executed.ipynb`) follows a five-stage pipeline:
 
 1. Data loading, schema audit, and exploratory diagnostics.
 2. Trajectory-wise interpolation experiments.
@@ -253,18 +253,14 @@ Environment definitions:
 - `requirements.txt`
 - `environment.yml`
 
-Primary notebook:
-
-- `notebooks/final_project.ipynb`
-
-Executed artifact:
+Notebook artifact:
 
 - `notebooks/final_project.executed.ipynb`
 
 Run steps:
 
 1. Create environment from `requirements.txt` or `environment.yml`.
-2. Execute `notebooks/final_project.ipynb` top-to-bottom.
+2. Open and review `notebooks/final_project.executed.ipynb` (executed, with outputs embedded).
 3. Review generated artifacts under `outputs/`.
 
 ## Repository Structure
