@@ -1,0 +1,33 @@
+{
+  "alongtrack_best_rmse": 0.1533771652973775,
+  "gridded_best_rmse": 0.030975923992941617,
+  "spatial_gain": {
+    "feature_count_truth": 0,
+    "feature_count_sparse": 20,
+    "feature_count_reconstructed": 18,
+    "feature_recovery_gain": 1.111111111111105,
+    "edge_sharpness_truth": 0.002585188107016919,
+    "edge_sharpness_sparse": 0.0030704535579857595,
+    "edge_sharpness_reconstructed": 0.002629516862649939,
+    "edge_recovery_gain": 10.946967359950108,
+    "psd_band_truth": 3.4567995570828534,
+    "psd_band_sparse": 6.1389360082566515,
+    "psd_band_reconstructed": 4.630949290377488,
+    "psd_recovery_gain": 2.2843223271417923
+  },
+  "temporal_gain": {
+    "variance_full": 0.0004561677789510306,
+    "variance_sparse": 0.0002560109974383572,
+    "variance_reconstructed": 0.00037681694900396035,
+    "variance_recovery_gain": 2.522428311383216,
+    "lag1_full": 0.30019086964701336,
+    "lag1_sparse": 0.8806156767728229,
+    "lag1_reconstructed": 0.38158943802097534,
+    "lag1_recovery_gain": 7.130651296630751,
+    "band_power_full": 0.005957109725146215,
+    "band_power_sparse": 0.003306116151676491,
+    "band_power_reconstructed": 0.005073610270652269,
+    "band_power_recovery_gain": 3.000560507405869
+  },
+  "environment_total_carbon_kg": 0.0023597992229831342
+}

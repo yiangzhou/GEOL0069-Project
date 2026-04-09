@@ -1,0 +1,16 @@
+column,dtype,missing_rate,dataset
+x,float64,0.0,df_GPOD.csv
+y,float64,0.0,df_GPOD.csv
+t,int64,0.0,df_GPOD.csv
+lon,float64,0.0,df_GPOD.csv
+lat,float64,0.0,df_GPOD.csv
+date,int64,0.0,df_GPOD.csv
+class,object,0.0,df_GPOD.csv
+elevation,float64,0.0,df_GPOD.csv
+SAT,object,0.0,df_GPOD.csv
+track,int64,0.0,df_GPOD.csv
+f*,float64,0.0,gridded_freeboard_arctic.h5:/preds
+f*_var,float64,0.0,gridded_freeboard_arctic.h5:/preds
+pred_loc_x,float64,0.0,gridded_freeboard_arctic.h5:/preds
+pred_loc_y,float64,0.0,gridded_freeboard_arctic.h5:/preds
+pred_loc_t,float64,0.0,gridded_freeboard_arctic.h5:/preds

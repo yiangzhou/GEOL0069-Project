@@ -1,0 +1,2 @@
+feature_count_truth,feature_count_sparse,feature_count_reconstructed,feature_recovery_gain,edge_sharpness_truth,edge_sharpness_sparse,edge_sharpness_reconstructed,edge_recovery_gain,psd_band_truth,psd_band_sparse,psd_band_reconstructed,psd_recovery_gain
+0,20,18,1.111111111111105,0.002585188107016919,0.0030704535579857595,0.002629516862649939,10.946967359950108,3.4567995570828534,6.1389360082566515,4.630949290377488,2.2843223271417923
