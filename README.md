@@ -33,7 +33,7 @@ The central objective is not only to minimize prediction error, but also to iden
 
 For a comprehensive walkthrough of the code implementation and methodology, watch the detailed project walkthrough video:
 
-[![Code Tutorial and Walkthrough](assets/application_context_sensor_pipeline.png)](assets/project_walkthrough_video.mp4)
+[![Code Tutorial and Walkthrough](assets/project_walkthrough_thumbnail.jpg)](assets/project_walkthrough_video.mp4)
 
 This walkthrough provides step-by-step explanations of the interpolation pipeline, experiment design, recoverability analysis, and environmental trade-off evaluation used in this project.
 
